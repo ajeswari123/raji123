@@ -1,4 +1,8 @@
 hello all
 this is third rollback by commiting
+<<<<<<< HEAD
 this is the content available in branch master
 
+=======
+now we added the branch student1
+>>>>>>> student1

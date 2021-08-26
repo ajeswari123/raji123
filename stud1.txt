@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello student
+=======
+content uodated in student1.txt
+>>>>>>> student1
